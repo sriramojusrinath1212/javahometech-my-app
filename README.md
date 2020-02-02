@@ -1,1 +1,1 @@
-# javahometech-my-app
+# javahometech/my-app
